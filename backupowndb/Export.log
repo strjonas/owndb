@@ -1,0 +1,189 @@
+﻿-------------------------------------
+Beginning Export of all Source
+myDatabaseNEWtry.accdb
+VCS Version 3.4.23
+Using Fast Save
+16.01.2023 17:26:47
+-------------------------------------
+-------------------------------------
+Exporting project...          
+  myDatabaseNEWtry.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Database1
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[3]
+-------------------------------------
+No modified vbe forms found in this database.
+-------------------------------------
+Exporting proj properties...  
+  Current Project Properties (Access)
+[2]
+-------------------------------------
+No modified saved specs found in this database.
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[46]
+-------------------------------------
+No modified shared images found in this database.
+-------------------------------------
+Exporting themes...           
+  Office Theme
+[1]
+-------------------------------------
+No modified imex specs found in this database.
+-------------------------------------
+Exporting tables...           
+  simple_testf
+    Sanitized in 0,005 seconds.
+  simple_testf (SQL)
+  students
+    Sanitized in 0,004 seconds.
+  students (SQL)
+  tbl_testf
+    Sanitized in 0,004 seconds.
+  tbl_testf (SQL)
+  tbl_testf_columns
+    Sanitized in 0,002 seconds.
+  tbl_testf_columns (SQL)
+  tbl_testf_rows
+    Sanitized in 0,002 seconds.
+  tbl_testf_rows (SQL)
+  temp_testf
+    Sanitized in 0,025 seconds.
+  temp_testf (SQL)
+[6]
+-------------------------------------
+No modified queries found in this database.
+-------------------------------------
+Exporting forms...            
+  add_simple_testf
+    Sanitized in 0,011 seconds.
+  students
+    Sanitized in 0,007 seconds.
+  add_students
+    Sanitized in 0,014 seconds.
+  testf_show_rpt
+    Sanitized in 0,005 seconds.
+  Form2
+    Sanitized in 0,006 seconds.
+  edit_simple_testf
+    Sanitized in 0,073 seconds.
+  testhtml
+    Sanitized in 0,003 seconds.
+  edit_simple_testfBACKUP
+    Sanitized in 0,014 seconds.
+  edit_simple_testf_paste
+    Sanitized in 0,004 seconds.
+  menu_testf
+    Sanitized in 0,007 seconds.
+  Form1
+    Sanitized in 0,004 seconds.
+  show_all_testf
+    Sanitized in 0,006 seconds.
+  show_student
+    Sanitized in 0,013 seconds.
+  show_students
+    Sanitized in 0,010 seconds.
+  testf_view
+    Sanitized in 0,002 seconds.
+  testf_view_simple
+    Sanitized in 0,005 seconds.
+[16]
+-------------------------------------
+No modified macros found in this database.
+-------------------------------------
+Exporting reports...          
+  Copy Of rpt_testf
+    Sanitized in 0,007 seconds.
+  rpt_testf
+    Sanitized in 0,062 seconds.
+  Report2
+    Sanitized in 0,008 seconds.
+  students
+    Sanitized in 0,007 seconds.
+  show_students
+    Sanitized in 0,011 seconds.
+  testhtml
+    Sanitized in 0,002 seconds.
+  test_tableauto
+    Sanitized in 0,002 seconds.
+[7]
+-------------------------------------
+No modified table data found in this database.
+-------------------------------------
+No modified modules found in this database.
+-------------------------------------
+No modified table data macros found in this database.
+-------------------------------------
+No modified relations found in this database.
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[3]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+No modified hidden attributes found in this database.
+-------------------------------------
+Done. (5,33 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Object Type                   Count     Seconds
+--------------------------------------------------
+Project                       1         0,01
+VB Project                    1         0,01
+VBE References                3         0,01
+Proj Properties               2         0,01
+DB Properties                 46        0,11
+Themes                        1         0,01
+Tables                        6         0,29
+Forms                         16        4,25
+Reports                       7         0,42
+Doc Properties                3         0,01
+Nav Pane Groups               1         0,01
+--------------------------------------------------
+TOTALS:                       87        5,13
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Read File                     67        0,02
+Parse JSON                    15        0,02
+Convert to JSON               993       0,23
+Compute SHA256                82        0,01
+Console Updates               3         0,10
+Compare Dictionary            13        0,00
+Get Modified Date             32        0,01
+Get File Property Hash        32        0,01
+Write File                    38        0,05
+Verify Path                   68        0,01
+Create Folder                 1         0,00
+Export Theme                  1         0,00
+Clear Orphaned                4         0,04
+App.ExportXML()               6         0,10
+Read File Bytes               52        0,58
+Sanitize XML                  6         0,03
+Format XML                    6         0,01
+Save Table SQL                6         0,02
+App.SaveAsText()              23        0,16
+Read File DevMode             23        0,01
+Delete File                   23        0,01
+Sanitize File                 23        0,25
+Get VBA Hash                  30        0,01
+Increment Progress            2         0,12
+--------------------------------------------------
+Other Operations                        3,55
+--------------------------------------------------
+
+
