@@ -1,0 +1,5 @@
+﻿CREATE TABLE [tbl_testf] (
+  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY UNIQUE NOT NULL,
+  [s_name] VARCHAR (255),
+  [s_bem] VARCHAR (255)
+)

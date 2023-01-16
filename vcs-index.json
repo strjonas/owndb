@@ -1,0 +1,256 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "16.01.2023 12:36:24",
+    "FullExportDate": "16.01.2023 12:36:24",
+    "OptionsHash": "245a35c",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "add_simple_testf.bas": {
+          "Hash": "a0fb937",
+          "ExportDate": "16.01.2023 12:36:23",
+          "SourceModified": "16.01.2023 12:36:23",
+          "FilePropertiesHash": "c04cc91"
+        },
+        "add_students.bas": {
+          "Hash": "1fbe727",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "a27b0a3"
+        },
+        "edit_simple_testf.bas": {
+          "Hash": "dc0fcaf",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "cb3d721"
+        },
+        "edit_simple_testf_paste.bas": {
+          "Hash": "d1978c8",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "2c3ca01"
+        },
+        "edit_simple_testfBACKUP.bas": {
+          "Hash": "fd5a8b3",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "9e9cb08"
+        },
+        "Form1.bas": {
+          "Hash": "5412d73",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "2f34d21"
+        },
+        "Form2.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "3963acf"
+        },
+        "menu_testf.bas": {
+          "Hash": "febc177",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "99a38c0"
+        },
+        "show_all_testf.bas": {
+          "Hash": "029044c",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "79e8703"
+        },
+        "show_student.bas": {
+          "Hash": "9664879",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "1202d0c"
+        },
+        "show_students.bas": {
+          "Hash": "e5a9fa9",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "8a32c06"
+        },
+        "students.bas": {
+          "ExportDate": "16.01.2023 12:36:23",
+          "SourceModified": "16.01.2023 12:36:23",
+          "FilePropertiesHash": "e90ec0d"
+        },
+        "testf_show_rpt.bas": {
+          "Hash": "355fb33",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "c972fb1"
+        },
+        "testf_view.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "9232812"
+        },
+        "testf_view_simple.bas": {
+          "Hash": "fa6471c",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "8c547e6"
+        },
+        "testhtml.bas": {
+          "Hash": "f9a8f68",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "185b9d1"
+        }
+      },
+      "Modules": {
+        "Class1.cls": {
+          "Hash": "4f07f79",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "bc1501e"
+        },
+        "funcs.bas": {
+          "Hash": "d13a829",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "0a673fa"
+        },
+        "mod_Form_show_students.bas": {
+          "Hash": "4bed6fd",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "deebd63"
+        },
+        "Module1.bas": {
+          "Hash": "01da04f",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "da68c55"
+        },
+        "Module2.bas": {
+          "Hash": "2fc1bb9",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "5ebdf3e"
+        },
+        "simple_testf_data.cls": {
+          "Hash": "16086fd",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "dc360f4"
+        },
+        "TestModule1.bas": {
+          "Hash": "b3d49f3",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "d34d812"
+        },
+        "TTable.cls": {
+          "Hash": "0a396bc",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "b630620"
+        }
+      },
+      "Project": {
+        "project.json": {
+          "Hash": "19c3478",
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "ea8f6ed"
+        }
+      },
+      "Reports": {
+        "Copy Of rpt_testf.bas": {
+          "Hash": "f79763f",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "60eeb90"
+        },
+        "Report2.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "c76d626"
+        },
+        "rpt_testf.bas": {
+          "Hash": "fa33955",
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "ded5a75"
+        },
+        "show_students.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "f376ac7"
+        },
+        "students.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "e86898a"
+        },
+        "test_tableauto.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "4b2e1bc"
+        },
+        "testhtml.bas": {
+          "ExportDate": "16.01.2023 12:36:24",
+          "SourceModified": "16.01.2023 12:36:24",
+          "FilePropertiesHash": "bcdb5a1"
+        }
+      },
+      "Tables": {
+        "simple_testf.xml": {
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "a10be77"
+        },
+        "students.xml": {
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "1f61a08"
+        },
+        "tbl_testf.xml": {
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "bfb69cf"
+        },
+        "tbl_testf_columns.xml": {
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "5e19036"
+        },
+        "tbl_testf_rows.xml": {
+          "ExportDate": "16.01.2023 12:36:23",
+          "SourceModified": "16.01.2023 12:36:23",
+          "FilePropertiesHash": "a81d6ce"
+        },
+        "temp_testf.xml": {
+          "ExportDate": "16.01.2023 12:36:23",
+          "SourceModified": "16.01.2023 12:36:23",
+          "FilePropertiesHash": "ab28f20"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "f417b86",
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "e99bc13"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "58a71bc",
+          "ExportDate": "16.01.2023 12:36:22",
+          "SourceModified": "16.01.2023 12:36:22",
+          "FilePropertiesHash": "199c5fa"
+        }
+      }
+    }
+  }
+}
