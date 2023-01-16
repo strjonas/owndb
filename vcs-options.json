@@ -4,7 +4,7 @@
     "AccessVersion": "16.0 32-bit"
   },
   "Options": {
-    "ExportFolder": "C:\\Users\\STRABELJ\\Documents\\praxis1\\backups\\owndb",
+    "ExportFolder": "C:\\Users\\STRABELJ\\Documents\\praxis1\\dev\\owndb\\backupowndb",
     "ShowDebug": false,
     "UseFastSave": true,
     "UseGitIntegration": false,

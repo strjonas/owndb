@@ -537,7 +537,7 @@ Begin Report
                     TextAlign =3
                     BackStyle =0
                     IMESentenceMode =3
-                    Left =5775
+                    Left =5770
                     Top =60
                     Width =5100
                     Height =300
@@ -548,9 +548,9 @@ Begin Report
                     Format ="Long Date"
                     GroupTable =2
 
-                    LayoutCachedLeft =5775
+                    LayoutCachedLeft =5770
                     LayoutCachedTop =60
-                    LayoutCachedWidth =10875
+                    LayoutCachedWidth =10870
                     LayoutCachedHeight =360
                     ColumnStart =2
                     ColumnEnd =2
@@ -567,7 +567,7 @@ Begin Report
                     TextAlign =3
                     BackStyle =0
                     IMESentenceMode =3
-                    Left =5775
+                    Left =5770
                     Top =420
                     Width =5100
                     Height =300
@@ -579,9 +579,9 @@ Begin Report
                     Format ="Long Time"
                     GroupTable =2
 
-                    LayoutCachedLeft =5775
+                    LayoutCachedLeft =5770
                     LayoutCachedTop =420
-                    LayoutCachedWidth =10875
+                    LayoutCachedWidth =10870
                     LayoutCachedHeight =720
                     RowStart =1
                     RowEnd =1
@@ -629,9 +629,9 @@ Begin Report
                 End
                 Begin Label
                     OverlapFlags =81
-                    Left =3525
+                    Left =3530
                     Top =60
-                    Width =3405
+                    Width =3400
                     Height =344
                     LeftMargin =44
                     TopMargin =22
@@ -643,7 +643,7 @@ Begin Report
                     Caption ="s_lname"
                     GroupTable =1
                     GridlineStyleBottom =1
-                    LayoutCachedLeft =3525
+                    LayoutCachedLeft =3530
                     LayoutCachedTop =60
                     LayoutCachedWidth =6930
                     LayoutCachedHeight =404
@@ -702,9 +702,9 @@ Begin Report
                     CanShrink = NotDefault
                     OverlapFlags =81
                     IMESentenceMode =3
-                    Left =3525
+                    Left =3530
                     Top =30
-                    Width =3405
+                    Width =3400
                     Height =344
                     TabIndex =1
                     LeftMargin =44
@@ -717,7 +717,7 @@ Begin Report
                     ControlSource ="s_lname"
                     GroupTable =1
 
-                    LayoutCachedLeft =3525
+                    LayoutCachedLeft =3530
                     LayoutCachedTop =30
                     LayoutCachedWidth =6930
                     LayoutCachedHeight =374
@@ -762,9 +762,9 @@ Begin Report
                         Begin Label
                             OverlapFlags =81
                             TextAlign =1
-                            Left =5535
+                            Left =5530
                             Top =420
-                            Width =735
+                            Width =740
                             Height =340
                             LeftMargin =44
                             TopMargin =22
@@ -776,7 +776,7 @@ Begin Report
                             Caption ="s_year"
                             GroupTable =3
                             BottomPadding =150
-                            LayoutCachedLeft =5535
+                            LayoutCachedLeft =5530
                             LayoutCachedTop =420
                             LayoutCachedWidth =6270
                             LayoutCachedHeight =760
@@ -830,7 +830,7 @@ Begin Report
                     OverlapFlags =85
                     IMESentenceMode =3
                     Left =60
-                    Top =135
+                    Top =130
                     Width =3400
                     LeftMargin =44
                     TopMargin =22
@@ -846,9 +846,9 @@ Begin Report
                     GridlineWidthTop =2
 
                     LayoutCachedLeft =60
-                    LayoutCachedTop =135
+                    LayoutCachedTop =130
                     LayoutCachedWidth =3460
-                    LayoutCachedHeight =375
+                    LayoutCachedHeight =370
                     RowStart =2
                     RowEnd =2
                     LayoutGroup =1
@@ -857,15 +857,15 @@ Begin Report
                     GroupTable =1
                 End
                 Begin EmptyCell
-                    Left =3525
-                    Top =135
-                    Width =3405
+                    Left =3530
+                    Top =130
+                    Width =3400
                     Name ="EmptyCell10"
                     GroupTable =1
-                    LayoutCachedLeft =3525
-                    LayoutCachedTop =135
+                    LayoutCachedLeft =3530
+                    LayoutCachedTop =130
                     LayoutCachedWidth =6930
-                    LayoutCachedHeight =375
+                    LayoutCachedHeight =370
                     RowStart =2
                     RowEnd =2
                     ColumnStart =1

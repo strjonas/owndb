@@ -239,10 +239,10 @@ Begin Form
                             LayoutCachedTop =1370
                             LayoutCachedWidth =13100
                             LayoutCachedHeight =5790
-                            WebImagePaddingLeft =2
-                            WebImagePaddingTop =2
-                            WebImagePaddingRight =2
-                            WebImagePaddingBottom =2
+                            WebImagePaddingLeft =3
+                            WebImagePaddingTop =3
+                            WebImagePaddingRight =3
+                            WebImagePaddingBottom =3
                             Begin
                                 Begin Label
                                     OverlapFlags =215
@@ -275,10 +275,10 @@ Begin Form
                             LayoutCachedTop =1370
                             LayoutCachedWidth =13100
                             LayoutCachedHeight =5790
-                            WebImagePaddingLeft =2
-                            WebImagePaddingTop =2
-                            WebImagePaddingRight =2
-                            WebImagePaddingBottom =2
+                            WebImagePaddingLeft =3
+                            WebImagePaddingTop =3
+                            WebImagePaddingRight =3
+                            WebImagePaddingBottom =3
                             Begin
                                 Begin Label
                                     OverlapFlags =215

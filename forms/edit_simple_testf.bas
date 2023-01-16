@@ -7,11 +7,11 @@ Begin Form
     PictureAlignment =2
     DatasheetGridlinesBehavior =3
     GridY =10
-    Width =15420
+    Width =10204
     DatasheetFontHeight =11
     ItemSuffix =29
     Right =23895
-    Bottom =11865
+    Bottom =11820
     RecSrcDt = Begin
         0xe162452d2ff1e540
     End
@@ -252,7 +252,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =573
                     Top =1133
-                    Width =2841
                     Height =570
                     TabIndex =4
                     BorderColor =10921638
@@ -263,7 +262,7 @@ Begin Form
 
                     LayoutCachedLeft =573
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =3414
+                    LayoutCachedWidth =2274
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
@@ -271,7 +270,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =1133
                     Width =561
                     Height =570
@@ -282,17 +281,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =93
+                    OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =1133
                     Width =561
                     Height =570
@@ -303,17 +302,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =95
+                    OverlapFlags =93
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =1133
                     Width =561
                     Height =570
@@ -324,17 +323,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =95
+                    OverlapFlags =93
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =1133
                     Width =561
                     Height =570
@@ -345,9 +344,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
@@ -355,7 +354,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =95
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =1133
                     Width =561
                     Height =570
@@ -366,17 +365,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =93
+                    OverlapFlags =95
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =1133
                     Width =561
                     Height =570
@@ -387,17 +386,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =93
+                    OverlapFlags =95
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =1133
                     Width =561
                     Height =570
@@ -408,17 +407,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =95
+                    OverlapFlags =93
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =1133
                     Width =561
                     Height =570
@@ -429,17 +428,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =95
+                    OverlapFlags =93
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =1133
                     Width =561
                     Height =570
@@ -450,9 +449,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
@@ -460,7 +459,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =95
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =1133
                     Width =561
                     Height =570
@@ -471,17 +470,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =93
+                    OverlapFlags =95
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =1133
                     Width =561
                     Height =570
@@ -492,17 +491,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =93
+                    OverlapFlags =95
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =1133
                     Width =561
                     Height =570
@@ -513,17 +512,17 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
                     CanGrow = NotDefault
                     CanShrink = NotDefault
-                    OverlapFlags =95
+                    OverlapFlags =93
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =1133
                     Width =561
                     Height =570
@@ -534,9 +533,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =1133
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =1703
                 End
                 Begin TextBox
@@ -546,7 +545,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =1705
-                    Width =2841
                     Height =570
                     TabIndex =18
                     BorderColor =10921638
@@ -557,7 +555,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =1705
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =2275
                 End
                 Begin TextBox
@@ -565,7 +563,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =1700
                     Width =561
                     Height =570
@@ -576,9 +574,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -586,7 +584,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =1700
                     Width =561
                     Height =570
@@ -597,9 +595,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -607,7 +605,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =1700
                     Width =561
                     Height =570
@@ -618,9 +616,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -628,7 +626,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =1700
                     Width =561
                     Height =570
@@ -639,9 +637,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -649,7 +647,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =1700
                     Width =561
                     Height =570
@@ -660,9 +658,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -670,7 +668,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =1700
                     Width =561
                     Height =570
@@ -681,9 +679,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -691,7 +689,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =1700
                     Width =561
                     Height =570
@@ -702,9 +700,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -712,7 +710,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =1700
                     Width =561
                     Height =570
@@ -723,9 +721,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -733,7 +731,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =1700
                     Width =561
                     Height =570
@@ -744,9 +742,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -754,7 +752,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =1700
                     Width =561
                     Height =570
@@ -765,9 +763,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -775,7 +773,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =1700
                     Width =561
                     Height =570
@@ -786,9 +784,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -796,7 +794,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =1700
                     Width =561
                     Height =570
@@ -807,9 +805,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -817,7 +815,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =1700
                     Width =561
                     Height =570
@@ -828,9 +826,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =1700
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =2270
                 End
                 Begin TextBox
@@ -840,7 +838,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =2272
-                    Width =2841
                     Height =570
                     TabIndex =32
                     BorderColor =10921638
@@ -851,7 +848,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =2272
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =2842
                 End
                 Begin TextBox
@@ -859,7 +856,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =2267
                     Width =561
                     Height =570
@@ -870,9 +867,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -880,7 +877,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =2267
                     Width =561
                     Height =570
@@ -891,9 +888,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -901,7 +898,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =2267
                     Width =561
                     Height =570
@@ -912,9 +909,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -922,7 +919,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =2267
                     Width =561
                     Height =570
@@ -933,9 +930,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -943,7 +940,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =2267
                     Width =561
                     Height =570
@@ -954,9 +951,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -964,7 +961,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =2267
                     Width =561
                     Height =570
@@ -975,9 +972,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -985,7 +982,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =2267
                     Width =561
                     Height =570
@@ -996,9 +993,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1006,7 +1003,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =2267
                     Width =561
                     Height =570
@@ -1017,9 +1014,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1027,7 +1024,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =2267
                     Width =561
                     Height =570
@@ -1038,9 +1035,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1048,7 +1045,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =2267
                     Width =561
                     Height =570
@@ -1059,9 +1056,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1069,7 +1066,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =2267
                     Width =561
                     Height =570
@@ -1080,9 +1077,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1090,7 +1087,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =2267
                     Width =561
                     Height =570
@@ -1101,9 +1098,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1111,7 +1108,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =2267
                     Width =561
                     Height =570
@@ -1122,9 +1119,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =2267
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =2837
                 End
                 Begin TextBox
@@ -1134,7 +1131,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =2839
-                    Width =2841
                     Height =570
                     TabIndex =46
                     BorderColor =10921638
@@ -1145,7 +1141,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =2839
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =3409
                 End
                 Begin TextBox
@@ -1153,7 +1149,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =2834
                     Width =561
                     Height =570
@@ -1164,9 +1160,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1174,7 +1170,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =2834
                     Width =561
                     Height =570
@@ -1185,9 +1181,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1195,7 +1191,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =2834
                     Width =561
                     Height =570
@@ -1206,9 +1202,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1216,7 +1212,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =2834
                     Width =561
                     Height =570
@@ -1227,9 +1223,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1237,7 +1233,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =2834
                     Width =561
                     Height =570
@@ -1248,9 +1244,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1258,7 +1254,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =2834
                     Width =561
                     Height =570
@@ -1269,9 +1265,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1279,7 +1275,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =2834
                     Width =561
                     Height =570
@@ -1290,9 +1286,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1300,7 +1296,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =2834
                     Width =561
                     Height =570
@@ -1311,9 +1307,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1321,7 +1317,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =2834
                     Width =561
                     Height =570
@@ -1332,9 +1328,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1342,7 +1338,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =2834
                     Width =561
                     Height =570
@@ -1353,9 +1349,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1363,7 +1359,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =2834
                     Width =561
                     Height =570
@@ -1374,9 +1370,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1384,7 +1380,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =2834
                     Width =561
                     Height =570
@@ -1395,9 +1391,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1405,7 +1401,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =2834
                     Width =561
                     Height =570
@@ -1416,9 +1412,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =2834
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =3404
                 End
                 Begin TextBox
@@ -1428,7 +1424,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =3406
-                    Width =2841
                     Height =570
                     TabIndex =60
                     BorderColor =10921638
@@ -1439,7 +1434,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =3406
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =3976
                 End
                 Begin TextBox
@@ -1447,7 +1442,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =3401
                     Width =561
                     Height =570
@@ -1458,9 +1453,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1468,7 +1463,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =3401
                     Width =561
                     Height =570
@@ -1479,9 +1474,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1489,7 +1484,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =3401
                     Width =561
                     Height =570
@@ -1500,9 +1495,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1510,7 +1505,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =3401
                     Width =561
                     Height =570
@@ -1521,9 +1516,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1531,7 +1526,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =3401
                     Width =561
                     Height =570
@@ -1542,9 +1537,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1552,7 +1547,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =3401
                     Width =561
                     Height =570
@@ -1563,9 +1558,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1573,7 +1568,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =3401
                     Width =561
                     Height =570
@@ -1584,9 +1579,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1594,7 +1589,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =3401
                     Width =561
                     Height =570
@@ -1605,9 +1600,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1615,7 +1610,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =3401
                     Width =561
                     Height =570
@@ -1626,9 +1621,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1636,7 +1631,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =3401
                     Width =561
                     Height =570
@@ -1647,9 +1642,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1657,7 +1652,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =3401
                     Width =561
                     Height =570
@@ -1668,9 +1663,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1678,7 +1673,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =3401
                     Width =561
                     Height =570
@@ -1689,9 +1684,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1699,7 +1694,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =3401
                     Width =561
                     Height =570
@@ -1710,9 +1705,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =3401
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =3971
                 End
                 Begin TextBox
@@ -1722,7 +1717,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =3973
-                    Width =2841
                     Height =570
                     TabIndex =74
                     BorderColor =10921638
@@ -1733,7 +1727,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =3973
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =4543
                 End
                 Begin TextBox
@@ -1741,7 +1735,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =3968
                     Width =561
                     Height =570
@@ -1752,9 +1746,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1762,7 +1756,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =3968
                     Width =561
                     Height =570
@@ -1773,9 +1767,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1783,7 +1777,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =3968
                     Width =561
                     Height =570
@@ -1794,9 +1788,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1804,7 +1798,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =3968
                     Width =561
                     Height =570
@@ -1815,9 +1809,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1825,7 +1819,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =3968
                     Width =561
                     Height =570
@@ -1836,9 +1830,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1846,7 +1840,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =3968
                     Width =561
                     Height =570
@@ -1857,9 +1851,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1867,7 +1861,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =3968
                     Width =561
                     Height =570
@@ -1878,9 +1872,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1888,7 +1882,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =3968
                     Width =561
                     Height =570
@@ -1899,9 +1893,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1909,7 +1903,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =3968
                     Width =561
                     Height =570
@@ -1920,9 +1914,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1930,7 +1924,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =3968
                     Width =561
                     Height =570
@@ -1941,9 +1935,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1951,7 +1945,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =3968
                     Width =561
                     Height =570
@@ -1962,9 +1956,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1972,7 +1966,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =3968
                     Width =561
                     Height =570
@@ -1983,9 +1977,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -1993,7 +1987,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =3968
                     Width =561
                     Height =570
@@ -2004,9 +1998,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =3968
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =4538
                 End
                 Begin TextBox
@@ -2016,7 +2010,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =4540
-                    Width =2841
                     Height =570
                     TabIndex =88
                     BorderColor =10921638
@@ -2027,7 +2020,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =4540
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =5110
                 End
                 Begin TextBox
@@ -2035,7 +2028,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =4535
                     Width =561
                     Height =570
@@ -2046,9 +2039,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2056,7 +2049,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =4535
                     Width =561
                     Height =570
@@ -2067,9 +2060,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2077,7 +2070,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =4535
                     Width =561
                     Height =570
@@ -2088,9 +2081,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2098,7 +2091,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =4535
                     Width =561
                     Height =570
@@ -2109,9 +2102,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2119,7 +2112,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =4535
                     Width =561
                     Height =570
@@ -2130,9 +2123,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2140,7 +2133,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =4535
                     Width =561
                     Height =570
@@ -2151,9 +2144,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2161,7 +2154,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =4535
                     Width =561
                     Height =570
@@ -2172,9 +2165,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2182,7 +2175,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =4535
                     Width =561
                     Height =570
@@ -2193,9 +2186,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2203,7 +2196,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =4535
                     Width =561
                     Height =570
@@ -2214,9 +2207,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2224,7 +2217,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =4535
                     Width =561
                     Height =570
@@ -2235,9 +2228,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2245,7 +2238,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =4535
                     Width =561
                     Height =570
@@ -2256,9 +2249,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2266,7 +2259,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =4535
                     Width =561
                     Height =570
@@ -2277,9 +2270,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2287,7 +2280,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =4535
                     Width =561
                     Height =570
@@ -2298,9 +2291,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =4535
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =5105
                 End
                 Begin TextBox
@@ -2310,7 +2303,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =5107
-                    Width =2841
                     Height =570
                     TabIndex =102
                     BorderColor =10921638
@@ -2321,7 +2313,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =5107
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =5677
                 End
                 Begin TextBox
@@ -2329,7 +2321,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =5102
                     Width =561
                     Height =570
@@ -2340,9 +2332,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2350,7 +2342,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =5102
                     Width =561
                     Height =570
@@ -2361,9 +2353,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2371,7 +2363,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =5102
                     Width =561
                     Height =570
@@ -2382,9 +2374,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2392,7 +2384,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =5102
                     Width =561
                     Height =570
@@ -2403,9 +2395,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2413,7 +2405,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =5102
                     Width =561
                     Height =570
@@ -2424,9 +2416,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2434,7 +2426,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =5102
                     Width =561
                     Height =570
@@ -2445,9 +2437,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2455,7 +2447,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =5102
                     Width =561
                     Height =570
@@ -2466,9 +2458,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2476,7 +2468,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =5102
                     Width =561
                     Height =570
@@ -2487,9 +2479,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2497,7 +2489,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =5102
                     Width =561
                     Height =570
@@ -2508,9 +2500,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2518,7 +2510,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =5102
                     Width =561
                     Height =570
@@ -2529,9 +2521,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2539,7 +2531,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =5102
                     Width =561
                     Height =570
@@ -2550,9 +2542,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2560,7 +2552,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =5102
                     Width =561
                     Height =570
@@ -2571,9 +2563,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2581,7 +2573,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =5102
                     Width =561
                     Height =570
@@ -2592,9 +2584,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =5102
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =5672
                 End
                 Begin TextBox
@@ -2604,7 +2596,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =5674
-                    Width =2841
                     Height =570
                     TabIndex =116
                     BorderColor =10921638
@@ -2615,7 +2606,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =5674
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =6244
                 End
                 Begin TextBox
@@ -2623,7 +2614,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =5669
                     Width =561
                     Height =570
@@ -2634,9 +2625,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2644,7 +2635,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =5669
                     Width =561
                     Height =570
@@ -2655,9 +2646,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2665,7 +2656,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =5669
                     Width =561
                     Height =570
@@ -2676,9 +2667,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2686,7 +2677,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =5669
                     Width =561
                     Height =570
@@ -2697,9 +2688,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2707,7 +2698,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =5669
                     Width =561
                     Height =570
@@ -2718,9 +2709,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2728,7 +2719,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =5669
                     Width =561
                     Height =570
@@ -2739,9 +2730,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2749,7 +2740,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =5669
                     Width =561
                     Height =570
@@ -2760,9 +2751,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2770,7 +2761,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =5669
                     Width =561
                     Height =570
@@ -2781,9 +2772,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2791,7 +2782,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =5669
                     Width =561
                     Height =570
@@ -2802,9 +2793,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2812,7 +2803,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =5669
                     Width =561
                     Height =570
@@ -2823,9 +2814,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2833,7 +2824,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =5669
                     Width =561
                     Height =570
@@ -2844,9 +2835,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2854,7 +2845,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =5669
                     Width =561
                     Height =570
@@ -2865,9 +2856,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2875,7 +2866,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =5669
                     Width =561
                     Height =570
@@ -2886,9 +2877,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =5669
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =6239
                 End
                 Begin TextBox
@@ -2898,7 +2889,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =6241
-                    Width =2841
                     Height =570
                     TabIndex =130
                     BorderColor =10921638
@@ -2909,7 +2899,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =6241
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =6811
                 End
                 Begin TextBox
@@ -2917,7 +2907,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =6236
                     Width =561
                     Height =570
@@ -2928,9 +2918,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -2938,7 +2928,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =6236
                     Width =561
                     Height =570
@@ -2949,9 +2939,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -2959,7 +2949,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =6236
                     Width =561
                     Height =570
@@ -2970,9 +2960,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -2980,7 +2970,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =6236
                     Width =561
                     Height =570
@@ -2991,9 +2981,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3001,7 +2991,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =6236
                     Width =561
                     Height =570
@@ -3012,9 +3002,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3022,7 +3012,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =6236
                     Width =561
                     Height =570
@@ -3033,9 +3023,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3043,7 +3033,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =6236
                     Width =561
                     Height =570
@@ -3054,9 +3044,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3064,7 +3054,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =6236
                     Width =561
                     Height =570
@@ -3075,9 +3065,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3085,7 +3075,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =6236
                     Width =561
                     Height =570
@@ -3096,9 +3086,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3106,7 +3096,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =6236
                     Width =561
                     Height =570
@@ -3117,9 +3107,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3127,7 +3117,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =6236
                     Width =561
                     Height =570
@@ -3138,9 +3128,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3148,7 +3138,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =6236
                     Width =561
                     Height =570
@@ -3159,9 +3149,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3169,7 +3159,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =6236
                     Width =561
                     Height =570
@@ -3180,9 +3170,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =6236
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =6806
                 End
                 Begin TextBox
@@ -3192,7 +3182,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =6808
-                    Width =2841
                     Height =570
                     TabIndex =144
                     BorderColor =10921638
@@ -3203,7 +3192,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =6808
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =7378
                 End
                 Begin TextBox
@@ -3211,7 +3200,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =6803
                     Width =561
                     Height =570
@@ -3222,9 +3211,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3232,7 +3221,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =6803
                     Width =561
                     Height =570
@@ -3243,9 +3232,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3253,7 +3242,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =6803
                     Width =561
                     Height =570
@@ -3264,9 +3253,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3274,7 +3263,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =6803
                     Width =561
                     Height =570
@@ -3285,9 +3274,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3295,7 +3284,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =6803
                     Width =561
                     Height =570
@@ -3306,9 +3295,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3316,7 +3305,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =6803
                     Width =561
                     Height =570
@@ -3327,9 +3316,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3337,7 +3326,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =6803
                     Width =561
                     Height =570
@@ -3348,9 +3337,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3358,7 +3347,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =6803
                     Width =561
                     Height =570
@@ -3369,9 +3358,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3379,7 +3368,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =6803
                     Width =561
                     Height =570
@@ -3390,9 +3379,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3400,7 +3389,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =6803
                     Width =561
                     Height =570
@@ -3411,9 +3400,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3421,7 +3410,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =6803
                     Width =561
                     Height =570
@@ -3432,9 +3421,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3442,7 +3431,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =6803
                     Width =561
                     Height =570
@@ -3453,9 +3442,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3463,7 +3452,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =6803
                     Width =561
                     Height =570
@@ -3474,9 +3463,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =6803
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =7373
                 End
                 Begin TextBox
@@ -3486,7 +3475,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =7375
-                    Width =2841
                     Height =570
                     TabIndex =158
                     BorderColor =10921638
@@ -3497,7 +3485,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =7375
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =7945
                 End
                 Begin TextBox
@@ -3505,7 +3493,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =7370
                     Width =561
                     Height =570
@@ -3516,9 +3504,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3526,7 +3514,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =7370
                     Width =561
                     Height =570
@@ -3537,9 +3525,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3547,7 +3535,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =7370
                     Width =561
                     Height =570
@@ -3558,9 +3546,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3568,7 +3556,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =7370
                     Width =561
                     Height =570
@@ -3579,9 +3567,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3589,7 +3577,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =7370
                     Width =561
                     Height =570
@@ -3600,9 +3588,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3610,7 +3598,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =7370
                     Width =561
                     Height =570
@@ -3621,9 +3609,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3631,7 +3619,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =7370
                     Width =561
                     Height =570
@@ -3642,9 +3630,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3652,7 +3640,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =7370
                     Width =561
                     Height =570
@@ -3663,9 +3651,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3673,7 +3661,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =7370
                     Width =561
                     Height =570
@@ -3684,9 +3672,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3694,7 +3682,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =7370
                     Width =561
                     Height =570
@@ -3705,9 +3693,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3715,7 +3703,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =7370
                     Width =561
                     Height =570
@@ -3726,9 +3714,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3736,7 +3724,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =7370
                     Width =561
                     Height =570
@@ -3747,9 +3735,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3757,7 +3745,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =255
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =7370
                     Width =561
                     Height =570
@@ -3768,9 +3756,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =7370
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =7940
                 End
                 Begin TextBox
@@ -3780,7 +3768,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =7942
-                    Width =2841
                     Height =570
                     TabIndex =172
                     BorderColor =10921638
@@ -3791,7 +3778,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =7942
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =8512
                 End
                 Begin TextBox
@@ -3799,7 +3786,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =7937
                     Width =561
                     Height =570
@@ -3810,9 +3797,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3820,7 +3807,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =7937
                     Width =561
                     Height =570
@@ -3831,9 +3818,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3841,7 +3828,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =7937
                     Width =561
                     Height =570
@@ -3852,9 +3839,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3862,7 +3849,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =7937
                     Width =561
                     Height =570
@@ -3873,9 +3860,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3883,7 +3870,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =7937
                     Width =561
                     Height =570
@@ -3894,9 +3881,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3904,7 +3891,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =7937
                     Width =561
                     Height =570
@@ -3915,9 +3902,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3925,7 +3912,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =7937
                     Width =561
                     Height =570
@@ -3936,9 +3923,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3946,7 +3933,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =7937
                     Width =561
                     Height =570
@@ -3957,9 +3944,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3967,7 +3954,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =7937
                     Width =561
                     Height =570
@@ -3978,9 +3965,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -3988,7 +3975,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =7937
                     Width =561
                     Height =570
@@ -3999,9 +3986,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -4009,7 +3996,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =7937
                     Width =561
                     Height =570
@@ -4020,9 +4007,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -4030,7 +4017,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =7937
                     Width =561
                     Height =570
@@ -4041,9 +4028,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -4051,7 +4038,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =7937
                     Width =561
                     Height =570
@@ -4062,9 +4049,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =7937
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =8507
                 End
                 Begin TextBox
@@ -4074,7 +4061,6 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =8509
-                    Width =2841
                     Height =570
                     TabIndex =186
                     BorderColor =10921638
@@ -4085,7 +4071,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =8509
-                    LayoutCachedWidth =3407
+                    LayoutCachedWidth =2267
                     LayoutCachedHeight =9079
                 End
                 Begin TextBox
@@ -4093,7 +4079,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3401
+                    Left =2268
                     Top =8504
                     Width =561
                     Height =570
@@ -4104,9 +4090,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3401
+                    LayoutCachedLeft =2268
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =3962
+                    LayoutCachedWidth =2829
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4114,7 +4100,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =3968
+                    Left =2835
                     Top =8504
                     Width =561
                     Height =570
@@ -4125,9 +4111,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =3968
+                    LayoutCachedLeft =2835
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =4529
+                    LayoutCachedWidth =3396
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4135,7 +4121,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =4535
+                    Left =3402
                     Top =8504
                     Width =561
                     Height =570
@@ -4146,9 +4132,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =4535
+                    LayoutCachedLeft =3402
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =5096
+                    LayoutCachedWidth =3963
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4156,7 +4142,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5102
+                    Left =3969
                     Top =8504
                     Width =561
                     Height =570
@@ -4167,9 +4153,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5102
+                    LayoutCachedLeft =3969
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =5663
+                    LayoutCachedWidth =4530
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4177,7 +4163,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =5669
+                    Left =4536
                     Top =8504
                     Width =561
                     Height =570
@@ -4188,9 +4174,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =5669
+                    LayoutCachedLeft =4536
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =6230
+                    LayoutCachedWidth =5097
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4198,7 +4184,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6236
+                    Left =5103
                     Top =8504
                     Width =561
                     Height =570
@@ -4209,9 +4195,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6236
+                    LayoutCachedLeft =5103
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =6797
+                    LayoutCachedWidth =5664
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4219,7 +4205,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =6803
+                    Left =5670
                     Top =8504
                     Width =561
                     Height =570
@@ -4230,9 +4216,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =6803
+                    LayoutCachedLeft =5670
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =7364
+                    LayoutCachedWidth =6231
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4240,7 +4226,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7370
+                    Left =6237
                     Top =8504
                     Width =561
                     Height =570
@@ -4251,9 +4237,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7370
+                    LayoutCachedLeft =6237
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =7931
+                    LayoutCachedWidth =6798
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4261,7 +4247,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =7937
+                    Left =6804
                     Top =8504
                     Width =561
                     Height =570
@@ -4272,9 +4258,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =7937
+                    LayoutCachedLeft =6804
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =8498
+                    LayoutCachedWidth =7365
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4282,7 +4268,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =8504
+                    Left =7371
                     Top =8504
                     Width =561
                     Height =570
@@ -4293,9 +4279,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =8504
+                    LayoutCachedLeft =7371
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =9065
+                    LayoutCachedWidth =7932
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4303,7 +4289,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9071
+                    Left =7938
                     Top =8504
                     Width =561
                     Height =570
@@ -4314,9 +4300,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9071
+                    LayoutCachedLeft =7938
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =9632
+                    LayoutCachedWidth =8499
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4324,7 +4310,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =9638
+                    Left =8505
                     Top =8504
                     Width =561
                     Height =570
@@ -4335,9 +4321,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =9638
+                    LayoutCachedLeft =8505
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =10199
+                    LayoutCachedWidth =9066
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4345,7 +4331,7 @@ Begin Form
                     CanShrink = NotDefault
                     OverlapFlags =127
                     IMESentenceMode =3
-                    Left =10205
+                    Left =9072
                     Top =8504
                     Width =561
                     Height =570
@@ -4356,9 +4342,9 @@ Begin Form
                     GridlineColor =10921638
                     ShowDatePicker =0
 
-                    LayoutCachedLeft =10205
+                    LayoutCachedLeft =9072
                     LayoutCachedTop =8504
-                    LayoutCachedWidth =10766
+                    LayoutCachedWidth =9633
                     LayoutCachedHeight =9074
                 End
                 Begin TextBox
@@ -4368,7 +4354,7 @@ Begin Form
                     IMESentenceMode =3
                     Left =566
                     Top =9075
-                    Width =10199
+                    Width =9074
                     Height =1125
                     TabIndex =200
                     BorderColor =10921638
@@ -4379,7 +4365,7 @@ Begin Form
 
                     LayoutCachedLeft =566
                     LayoutCachedTop =9075
-                    LayoutCachedWidth =10765
+                    LayoutCachedWidth =9640
                     LayoutCachedHeight =10200
                 End
             End
@@ -4642,10 +4628,6 @@ End Function
 Private Sub btn_preview_Click()
     ' Filling the temptable from F_DATA so the report can view it
     update_temptable_from_data
-    
-    If Application.CurrentProject.AllReports("rpt_testf").IsLoaded = True Then
-        DoCmd.Close acReport, "rpt_testf"
-    End If
     
     '  Now open the report:
     DoCmd.OpenReport "rpt_testf", acViewPreview

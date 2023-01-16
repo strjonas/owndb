@@ -147,7 +147,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -160,7 +159,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_1"
                     ControlSource ="str_0_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -171,7 +169,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -184,7 +181,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_2"
                     ControlSource ="str_0_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -195,7 +191,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -208,7 +203,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_3"
                     ControlSource ="str_0_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -219,7 +213,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -232,7 +225,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_4"
                     ControlSource ="str_0_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -243,7 +235,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -256,7 +247,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_5"
                     ControlSource ="str_0_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -267,7 +257,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -280,7 +269,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_6"
                     ControlSource ="str_0_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -291,7 +279,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -304,7 +291,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_7"
                     ControlSource ="str_0_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -315,7 +301,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -328,7 +313,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_8"
                     ControlSource ="str_0_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -339,7 +323,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -352,7 +335,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_9"
                     ControlSource ="str_0_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -363,7 +345,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -376,7 +357,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_10"
                     ControlSource ="str_0_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -387,7 +367,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -400,7 +379,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_11"
                     ControlSource ="str_0_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -411,7 +389,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -424,7 +401,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_12"
                     ControlSource ="str_0_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -435,7 +411,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -448,7 +423,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_0_13"
                     ControlSource ="str_0_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -479,7 +453,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -492,7 +465,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_1"
                     ControlSource ="str_1_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -503,7 +475,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -516,7 +487,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_2"
                     ControlSource ="str_1_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -527,7 +497,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -540,7 +509,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_3"
                     ControlSource ="str_1_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -551,7 +519,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -564,7 +531,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_4"
                     ControlSource ="str_1_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -575,7 +541,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -588,7 +553,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_5"
                     ControlSource ="str_1_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -599,7 +563,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -612,7 +575,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_6"
                     ControlSource ="str_1_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -623,7 +585,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -636,7 +597,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_7"
                     ControlSource ="str_1_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -647,7 +607,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -660,7 +619,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_8"
                     ControlSource ="str_1_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -671,7 +629,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -684,7 +641,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_9"
                     ControlSource ="str_1_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -695,7 +651,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -708,7 +663,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_10"
                     ControlSource ="str_1_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -719,7 +673,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -732,7 +685,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_11"
                     ControlSource ="str_1_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -743,7 +695,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -756,7 +707,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_12"
                     ControlSource ="str_1_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -767,7 +717,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -780,7 +729,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_1_13"
                     ControlSource ="str_1_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -811,7 +759,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -824,7 +771,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_1"
                     ControlSource ="str_2_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -835,7 +781,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -848,7 +793,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_2"
                     ControlSource ="str_2_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -859,7 +803,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -872,7 +815,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_3"
                     ControlSource ="str_2_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -883,7 +825,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -896,7 +837,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_4"
                     ControlSource ="str_2_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -907,7 +847,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -920,7 +859,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_5"
                     ControlSource ="str_2_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -931,7 +869,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -944,7 +881,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_6"
                     ControlSource ="str_2_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -955,7 +891,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -968,7 +903,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_7"
                     ControlSource ="str_2_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -979,7 +913,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -992,7 +925,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_8"
                     ControlSource ="str_2_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1003,7 +935,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1016,7 +947,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_9"
                     ControlSource ="str_2_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1027,7 +957,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1040,7 +969,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_10"
                     ControlSource ="str_2_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1051,7 +979,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1064,7 +991,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_11"
                     ControlSource ="str_2_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1075,7 +1001,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1088,7 +1013,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_12"
                     ControlSource ="str_2_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1099,7 +1023,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1112,7 +1035,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_2_13"
                     ControlSource ="str_2_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1143,7 +1065,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1156,7 +1077,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_1"
                     ControlSource ="str_3_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1167,7 +1087,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1180,7 +1099,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_2"
                     ControlSource ="str_3_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1191,7 +1109,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1204,7 +1121,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_3"
                     ControlSource ="str_3_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1215,7 +1131,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1228,7 +1143,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_4"
                     ControlSource ="str_3_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1239,7 +1153,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1252,7 +1165,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_5"
                     ControlSource ="str_3_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1263,7 +1175,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1276,7 +1187,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_6"
                     ControlSource ="str_3_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1287,7 +1197,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1300,7 +1209,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_7"
                     ControlSource ="str_3_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1311,7 +1219,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1324,7 +1231,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_8"
                     ControlSource ="str_3_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1335,7 +1241,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1348,7 +1253,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_9"
                     ControlSource ="str_3_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1359,7 +1263,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1372,7 +1275,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_10"
                     ControlSource ="str_3_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1383,7 +1285,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1396,7 +1297,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_11"
                     ControlSource ="str_3_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1407,7 +1307,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1420,7 +1319,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_12"
                     ControlSource ="str_3_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1431,7 +1329,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1444,7 +1341,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_3_13"
                     ControlSource ="str_3_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1475,7 +1371,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1488,7 +1383,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_1"
                     ControlSource ="str_4_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1499,7 +1393,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1512,7 +1405,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_2"
                     ControlSource ="str_4_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1523,7 +1415,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1536,7 +1427,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_3"
                     ControlSource ="str_4_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1547,7 +1437,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1560,7 +1449,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_4"
                     ControlSource ="str_4_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1571,7 +1459,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1584,7 +1471,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_5"
                     ControlSource ="str_4_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1595,7 +1481,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1608,7 +1493,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_6"
                     ControlSource ="str_4_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1619,7 +1503,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1632,7 +1515,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_7"
                     ControlSource ="str_4_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1643,7 +1525,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1656,7 +1537,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_8"
                     ControlSource ="str_4_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1667,7 +1547,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1680,7 +1559,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_9"
                     ControlSource ="str_4_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1691,7 +1569,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1704,7 +1581,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_10"
                     ControlSource ="str_4_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1715,7 +1591,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1728,7 +1603,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_11"
                     ControlSource ="str_4_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1739,7 +1613,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1752,7 +1625,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_12"
                     ControlSource ="str_4_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1763,7 +1635,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1776,7 +1647,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_4_13"
                     ControlSource ="str_4_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1807,7 +1677,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1820,7 +1689,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_1"
                     ControlSource ="str_5_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1831,7 +1699,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1844,7 +1711,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_2"
                     ControlSource ="str_5_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1855,7 +1721,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1868,7 +1733,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_3"
                     ControlSource ="str_5_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1879,7 +1743,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1892,7 +1755,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_4"
                     ControlSource ="str_5_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1903,7 +1765,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1916,7 +1777,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_5"
                     ControlSource ="str_5_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1927,7 +1787,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1940,7 +1799,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_6"
                     ControlSource ="str_5_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1951,7 +1809,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1964,7 +1821,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_7"
                     ControlSource ="str_5_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1975,7 +1831,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -1988,7 +1843,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_8"
                     ControlSource ="str_5_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -1999,7 +1853,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2012,7 +1865,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_9"
                     ControlSource ="str_5_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2023,7 +1875,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2036,7 +1887,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_10"
                     ControlSource ="str_5_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2047,7 +1897,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2060,7 +1909,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_11"
                     ControlSource ="str_5_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2071,7 +1919,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2084,7 +1931,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_12"
                     ControlSource ="str_5_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2095,7 +1941,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2108,7 +1953,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_5_13"
                     ControlSource ="str_5_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2139,7 +1983,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2152,7 +1995,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_1"
                     ControlSource ="str_6_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2163,7 +2005,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2176,7 +2017,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_2"
                     ControlSource ="str_6_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2187,7 +2027,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2200,7 +2039,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_3"
                     ControlSource ="str_6_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2211,7 +2049,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2224,7 +2061,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_4"
                     ControlSource ="str_6_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2235,7 +2071,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2248,7 +2083,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_5"
                     ControlSource ="str_6_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2259,7 +2093,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2272,7 +2105,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_6"
                     ControlSource ="str_6_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2283,7 +2115,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2296,7 +2127,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_7"
                     ControlSource ="str_6_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2307,7 +2137,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2320,7 +2149,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_8"
                     ControlSource ="str_6_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2331,7 +2159,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2344,7 +2171,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_9"
                     ControlSource ="str_6_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2355,7 +2181,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2368,7 +2193,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_10"
                     ControlSource ="str_6_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2379,7 +2203,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2392,7 +2215,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_11"
                     ControlSource ="str_6_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2403,7 +2225,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2416,7 +2237,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_12"
                     ControlSource ="str_6_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2427,7 +2247,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2440,7 +2259,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_6_13"
                     ControlSource ="str_6_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2471,7 +2289,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2484,7 +2301,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_1"
                     ControlSource ="str_7_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2495,7 +2311,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2508,7 +2323,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_2"
                     ControlSource ="str_7_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2519,7 +2333,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2532,7 +2345,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_3"
                     ControlSource ="str_7_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2543,7 +2355,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2556,7 +2367,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_4"
                     ControlSource ="str_7_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2567,7 +2377,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2580,7 +2389,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_5"
                     ControlSource ="str_7_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2591,7 +2399,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2604,7 +2411,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_6"
                     ControlSource ="str_7_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2615,7 +2421,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2628,7 +2433,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_7"
                     ControlSource ="str_7_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2639,7 +2443,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2652,7 +2455,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_8"
                     ControlSource ="str_7_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2663,7 +2465,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2676,7 +2477,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_9"
                     ControlSource ="str_7_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2687,7 +2487,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2700,7 +2499,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_10"
                     ControlSource ="str_7_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2711,7 +2509,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2724,7 +2521,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_11"
                     ControlSource ="str_7_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2735,7 +2531,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2748,7 +2543,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_12"
                     ControlSource ="str_7_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2759,7 +2553,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2772,7 +2565,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_7_13"
                     ControlSource ="str_7_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2803,7 +2595,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2816,7 +2607,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_1"
                     ControlSource ="str_8_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2827,7 +2617,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2840,7 +2629,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_2"
                     ControlSource ="str_8_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2851,7 +2639,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2864,7 +2651,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_3"
                     ControlSource ="str_8_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2875,7 +2661,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2888,7 +2673,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_4"
                     ControlSource ="str_8_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2899,7 +2683,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2912,7 +2695,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_5"
                     ControlSource ="str_8_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2923,7 +2705,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2936,7 +2717,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_6"
                     ControlSource ="str_8_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2947,7 +2727,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2960,7 +2739,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_7"
                     ControlSource ="str_8_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2971,7 +2749,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -2984,7 +2761,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_8"
                     ControlSource ="str_8_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -2995,7 +2771,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3008,7 +2783,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_9"
                     ControlSource ="str_8_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3019,7 +2793,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3032,7 +2805,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_10"
                     ControlSource ="str_8_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3043,7 +2815,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3056,7 +2827,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_11"
                     ControlSource ="str_8_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3067,7 +2837,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3080,7 +2849,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_12"
                     ControlSource ="str_8_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3091,7 +2859,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3104,7 +2871,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_8_13"
                     ControlSource ="str_8_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3135,7 +2901,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3148,7 +2913,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_1"
                     ControlSource ="str_9_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3159,7 +2923,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3172,7 +2935,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_2"
                     ControlSource ="str_9_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3183,7 +2945,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3196,7 +2957,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_3"
                     ControlSource ="str_9_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3207,7 +2967,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3220,7 +2979,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_4"
                     ControlSource ="str_9_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3231,7 +2989,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3244,7 +3001,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_5"
                     ControlSource ="str_9_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3255,7 +3011,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3268,7 +3023,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_6"
                     ControlSource ="str_9_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3279,7 +3033,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3292,7 +3045,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_7"
                     ControlSource ="str_9_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3303,7 +3055,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3316,7 +3067,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_8"
                     ControlSource ="str_9_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3327,7 +3077,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3340,7 +3089,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_9"
                     ControlSource ="str_9_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3351,7 +3099,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3364,7 +3111,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_10"
                     ControlSource ="str_9_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3375,7 +3121,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3388,7 +3133,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_11"
                     ControlSource ="str_9_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3399,7 +3143,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3412,7 +3155,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_12"
                     ControlSource ="str_9_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3423,7 +3165,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3436,7 +3177,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_9_13"
                     ControlSource ="str_9_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3467,7 +3207,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3480,7 +3219,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_1"
                     ControlSource ="str_10_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3491,7 +3229,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3504,7 +3241,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_2"
                     ControlSource ="str_10_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3515,7 +3251,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3528,7 +3263,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_3"
                     ControlSource ="str_10_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3539,7 +3273,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3552,7 +3285,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_4"
                     ControlSource ="str_10_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3563,7 +3295,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3576,7 +3307,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_5"
                     ControlSource ="str_10_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3587,7 +3317,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3600,7 +3329,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_6"
                     ControlSource ="str_10_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3611,7 +3339,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3624,7 +3351,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_7"
                     ControlSource ="str_10_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3635,7 +3361,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3648,7 +3373,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_8"
                     ControlSource ="str_10_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3659,7 +3383,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3672,7 +3395,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_9"
                     ControlSource ="str_10_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3683,7 +3405,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3696,7 +3417,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_10"
                     ControlSource ="str_10_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3707,7 +3427,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3720,7 +3439,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_11"
                     ControlSource ="str_10_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3731,7 +3449,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3744,7 +3461,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_12"
                     ControlSource ="str_10_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3755,7 +3471,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3768,7 +3483,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_10_13"
                     ControlSource ="str_10_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3799,7 +3513,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3812,7 +3525,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_1"
                     ControlSource ="str_11_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3823,7 +3535,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3836,7 +3547,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_2"
                     ControlSource ="str_11_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3847,7 +3557,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3860,7 +3569,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_3"
                     ControlSource ="str_11_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3871,7 +3579,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3884,7 +3591,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_4"
                     ControlSource ="str_11_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3895,7 +3601,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3908,7 +3613,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_5"
                     ControlSource ="str_11_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3919,7 +3623,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3932,7 +3635,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_6"
                     ControlSource ="str_11_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3943,7 +3645,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3956,7 +3657,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_7"
                     ControlSource ="str_11_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3967,7 +3667,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -3980,7 +3679,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_8"
                     ControlSource ="str_11_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -3991,7 +3689,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4004,7 +3701,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_9"
                     ControlSource ="str_11_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4015,7 +3711,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4028,7 +3723,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_10"
                     ControlSource ="str_11_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4039,7 +3733,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4052,7 +3745,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_11"
                     ControlSource ="str_11_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4063,7 +3755,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4076,7 +3767,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_12"
                     ControlSource ="str_11_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4087,7 +3777,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4100,7 +3789,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_11_13"
                     ControlSource ="str_11_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4131,7 +3819,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4144,7 +3831,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_1"
                     ControlSource ="str_12_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4155,7 +3841,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4168,7 +3853,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_2"
                     ControlSource ="str_12_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4179,7 +3863,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4192,7 +3875,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_3"
                     ControlSource ="str_12_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4203,7 +3885,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4216,7 +3897,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_4"
                     ControlSource ="str_12_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4227,7 +3907,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4240,7 +3919,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_5"
                     ControlSource ="str_12_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4251,7 +3929,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4264,7 +3941,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_6"
                     ControlSource ="str_12_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4275,7 +3951,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4288,7 +3963,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_7"
                     ControlSource ="str_12_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4299,7 +3973,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4312,7 +3985,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_8"
                     ControlSource ="str_12_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4323,7 +3995,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4336,7 +4007,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_9"
                     ControlSource ="str_12_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4347,7 +4017,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4360,7 +4029,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_10"
                     ControlSource ="str_12_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4371,7 +4039,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4384,7 +4051,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_11"
                     ControlSource ="str_12_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4395,7 +4061,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4408,7 +4073,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_12"
                     ControlSource ="str_12_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4419,7 +4083,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4432,7 +4095,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_12_13"
                     ControlSource ="str_12_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4463,7 +4125,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4476,7 +4137,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_1"
                     ControlSource ="str_13_1"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4487,7 +4147,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4500,7 +4159,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_2"
                     ControlSource ="str_13_2"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4511,7 +4169,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4524,7 +4181,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_3"
                     ControlSource ="str_13_3"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4535,7 +4191,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4548,7 +4203,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_4"
                     ControlSource ="str_13_4"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4559,7 +4213,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4572,7 +4225,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_5"
                     ControlSource ="str_13_5"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4583,7 +4235,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4596,7 +4247,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_6"
                     ControlSource ="str_13_6"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4607,7 +4257,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4620,7 +4269,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_7"
                     ControlSource ="str_13_7"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4631,7 +4279,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4644,7 +4291,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_8"
                     ControlSource ="str_13_8"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4655,7 +4301,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4668,7 +4313,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_9"
                     ControlSource ="str_13_9"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4679,7 +4323,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4692,7 +4335,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_10"
                     ControlSource ="str_13_10"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4703,7 +4345,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =12
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4716,7 +4357,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_11"
                     ControlSource ="str_13_11"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4727,7 +4367,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4740,7 +4379,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_12"
                     ControlSource ="str_13_12"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4751,7 +4389,6 @@ Begin Report
                     ThemeFontIndex =-1
                 End
                 Begin TextBox
-                    OverlapFlags =4
                     TextAlign =2
                     TextFontFamily =18
                     IMESentenceMode =3
@@ -4764,7 +4401,6 @@ Begin Report
                     ForeColor =4210752
                     Name ="txt_13_13"
                     ControlSource ="str_13_13"
-                    Format ="General Number"
                     FontName ="Roche Serif"
                     GridlineColor =10921638
 
@@ -4779,20 +4415,19 @@ Begin Report
                     CanShrink = NotDefault
                     IMESentenceMode =3
                     Left =566
-                    Top =5102
+                    Top =8508
                     Width =9074
                     Height =1125
                     TabIndex =196
                     BorderColor =10921638
                     ForeColor =4210752
                     Name ="txt_memo"
-                    ControlSource ="s_bem"
                     GridlineColor =10921638
 
                     LayoutCachedLeft =566
-                    LayoutCachedTop =5102
+                    LayoutCachedTop =8508
                     LayoutCachedWidth =9640
-                    LayoutCachedHeight =6227
+                    LayoutCachedHeight =9633
                 End
             End
         End
@@ -4813,217 +4448,165 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Compare Database
 
-Private Sub apply_padding(max_h As Integer, max_w As Integer, padding_side, padding_tb, rpt)
+Private Sub Detail_Format(Cancel As Integer, FormatCount As Integer)
+    ' If element is resized, the rest needs to go down
+    Dim offset As Integer: offset = 50
+    
+    Dim max_w, max_h
+    max_w = 13
+    max_h = 13
+    
+    Dim rc, cc
+    Dim minheight: minheight = 250
+    Dim maxheight
+    Dim height
+    
+    Dim padding_rl: padding_side = 50
+    Dim padding_tb: padding_tb = 20
+    
+    Dim umbruch_ab: umbruch_ab = 2000
+    
+    ' Apply padding
     
     For rc = 0 To max_h
+        
         For cc = 0 To max_w
             Me("txt_" & rc & "_" & cc & "").LeftPadding = padding_side
             Me("txt_" & rc & "_" & cc & "").RightPadding = padding_side
             Me("txt_" & rc & "_" & cc & "").BottomPadding = padding_tb
             Me("txt_" & rc & "_" & cc & "").TopPadding = padding_tb
+            
         Next cc
     Next rc
     
-End Sub
-
-Private Function return_first_empty_row(ByVal max_h%, ByVal max_w%, rpt)
-    ' Find the first empty row, then hide every row from then and set the max_h to that
+    
+    
     Dim isEmpty As Boolean
-    Dim field_value
+    Dim previous_max_h: previous_max_h = max_h
+    Dim previous_max_w: previous_max_w = max_w
+    ' WARNING: tables can't have an empty row in between anymore because of that
+    ' Find the first empty row, then hide every row from then and set the max_h to that
     For rc = 0 To max_h
         isEmpty = True
         For cc = 0 To max_w
-            field_value = rpt("txt_" & rc & "_" & cc & "").Value
-            If Len(Trim(field_value)) > 0 Then
+            If Not IsNull(Me("txt_" & rc & "_" & cc & "").Value) Then
                 isEmpty = False
                 Exit For
             End If
         Next cc
         If isEmpty Then
-            max_h = rc
+            max_h = rc - 1
             Exit For
         End If
     Next rc
-    return_first_empty_row = max_h
-End Function
-
-Private Function return_first_empty_col(ByVal max_h%, ByVal max_w%, rpt)
-    ' Find the first empty row, then hide every row from then and set the max_h to that
-    Dim isEmpty As Boolean
-    Dim field_value
+    
+    ' Hide all remaining rows
+    For rc = max_h To previous_max_h
+        For cc = 0 To max_w
+            Me("txt_" & rc & "_" & cc & "").Visible = False
+            Me("txt_" & rc & "_" & cc & "").height = 0
+            Me("txt_" & rc & "_" & cc & "").width = 0
+        Next cc
+    Next rc
+    
+    ' Find the first empty column,then hide every column from then and set the max_w to that
     For cc = 0 To max_w
         isEmpty = True
         For rc = 0 To max_h
-            field_value = rpt("txt_" & rc & "_" & cc & "").Value
-            If Len(Trim(field_value)) > 0 Then
+            If Not IsNull(Me("txt_" & rc & "_" & cc & "").Value) Then
                 isEmpty = False
                 Exit For
             End If
         Next rc
         If isEmpty Then
-            max_w = cc
+            max_w = cc - 1
             Exit For
         End If
     Next cc
     
-    return_first_empty_col = max_w
-End Function
-
-Private Sub hide_empty_rows(max_h%, max_w%, previous_max_h%, previous_max_w%, rpt)
-    For rc = max_h To previous_max_h
-        For cc = 0 To previous_max_w
-            Me("txt_" & rc & "_" & cc & "").Visible = False
-            Me("txt_" & rc & "_" & cc & "").height = 0
-            Me("txt_" & rc & "_" & cc & "").width = 0
-        Next cc
-    Next rc
-End Sub
-
-Private Sub hide_empty_cols(max_h%, max_w%, previous_max_h%, previous_max_w%, rpt)
-    For cc = max_w To previous_max_w
-        For rc = 0 To previous_max_h
-            Me("txt_" & rc & "_" & cc & "").Visible = False
-            Me("txt_" & rc & "_" & cc & "").height = 0
-            Me("txt_" & rc & "_" & cc & "").width = 0
-        Next rc
-    Next cc
-End Sub
-
-Private Sub Detail_Format(Cancel As Integer, FormatCount As Integer)
-   
-    Dim max_w%, max_h As Integer
-    
-    max_w = 13
-    max_h = 13
-    
-    Dim padding_tb%: padding_tb = 50
-    Dim padding_side%: padding_side = 50
-    Dim umbruch_ab%: umbruch_ab = 2000
-    
-    
-    
-    ' Preserving the old maxes, cause they will be changed
-    Dim previous_max_h%: previous_max_h = max_h
-    Dim previous_max_w%: previous_max_w = max_w
-    
-    ' WARNING: tables can't have an empty row in between anymore because of that
-    max_h = return_first_empty_row(max_h, max_w, Me)
-    max_w = return_first_empty_col(max_h, max_w, Me)
-    
     ' Hide all remaining rows
-    Call hide_empty_rows(max_h, max_w, previous_max_h, previous_max_w, Me)
-    Call hide_empty_cols(max_h, max_w, previous_max_h, previous_max_w, Me)
-    
-    Dim offset_col%, offset_row%
-    ' resize every column and rows in each row or col to be the same height and width
-    offset_row = match_row_h(max_w, max_h, padding_tb, umbruch_ab)
-    offset_col = match_col_w(max_w, max_h, umbruch_ab, padding_side)
-    
-    Me("txt_memo").Top = offset_row
-    Me("txt_memo").Left = 50
-    Me("txt_memo").width = offset_col - 50
-    
-    Call apply_padding(max_h, max_w, padding_side, padding_tb, Me)
-
-End Sub
-
-Private Function match_col_w(ByRef max_w As Integer, ByRef max_h As Integer, ByRef umbruch_ab As Integer, ByRef padding_side As Integer)
-    Dim rc%, cc%
-    Dim minwidth%: minwidth = 500
-    Dim maxwidth%
-    Dim offset%: offset = 50
-    
-    ' nur fuer return
-    Dim lastwidth%
-    
-    For cc = 0 To max_w
-        
-        ' Get the max width
-        maxwidth = return_max_col_width(cc, max_h, umbruch_ab, minwidth)
-            
-        ' Resize all and put the correct position
+    For cc = max_w To previous_max_w
         For rc = 0 To max_h
-            Me("txt_" & rc & "_" & cc & "").Left = offset
-            Me("txt_" & rc & "_" & cc & "").width = maxwidth + padding_side * 2
+            Debug.Print "Hey"
+            Me("txt_" & rc & "_" & cc & "").Visible = False
+            Me("txt_" & rc & "_" & cc & "").height = 0
+            Me("txt_" & rc & "_" & cc & "").width = 0
         Next rc
-        rc = 0
-    
-        ' offset plus the width the col  will have
-        lastwidth = Me("txt_" & rc & "_" & cc & "").width
-        offset = offset + lastwidth
     Next cc
     
-    match_col_w = offset - lastwidth
-End Function
-
-Private Function return_max_col_width(ByRef cc As Integer, ByRef max_h As Integer, ByRef umbruch_ab As Integer, ByRef minwidth As Integer) As Integer
-    Dim rc%
-    Dim width%
-    Dim maxw%: maxw = minwidth
-    Dim field
     
-    For rc = 0 To max_h
     
-        field = Me("txt_" & rc & "_" & cc & "")
-        width = TextWidth(field)
-        If width > maxw Then
-            If width > umbruch_ab Then
-                width = umbruch_ab
-            End If
-            maxw = width
-                
-        End If
-    Next rc
     
-    return_max_col_width = maxw
-End Function
-
-Private Function match_row_h(ByRef max_w As Integer, ByRef max_h As Integer, ByRef padding_tb As Integer, ByRef umbruch_ab As Integer)
-    Dim offset As Integer: offset = 50
-    Dim rc%, cc%
-    Dim minheight%: minheight = 250
-    Dim maxheight%
     
-    Dim lastheight%
     
+    ' Get the height of highest element in a row, resize all the others
     For rc = 0 To max_h
         maxheight = minheight
         
-        ' Get the maximum height that any row has or if its too high, the value umbruch_ab
-        maxheight = return_max_row_heigth(rc, max_w, umbruch_ab, maxheight)
+        ' Get the max height
+        For cc = 0 To max_w
+            
+            ' Textheight gibt immer nur wie hoch die schrift ist, auch wenn tatsaechlich es 3 reihen gibt
+            ' Da bei umbruch_ab als weite umgebrochen wird kann man damit die reihen bestimmen
+            ' Plus eins weil int abrundet aber ich immer aufrunden muss
+            height = TextHeight(Me("txt_" & rc & "_" & cc & ""))
+            height = height * (Int(TextWidth(Me("txt_" & rc & "_" & cc & "")) / umbruch_ab) + 1)
+            If height > maxheight Then
+                maxheight = height
+            End If
+        Next cc
+        cc = 0
+        
 
             
         ' Resize all and put the correct position
         For cc = 0 To max_w
+            
             Me("txt_" & rc & "_" & cc & "").Top = offset
             Me("txt_" & rc & "_" & cc & "").height = maxheight + padding_tb * 2
         Next cc
         cc = 0
         
         ' offset plus the height the row will be
-        lastheight = Me("txt_" & rc & "_" & cc & "").height
-        offset = offset + lastheight
+        offset = offset + maxheight + padding_tb * 2
     Next rc
     
-    match_row_h = offset - lastheight
-End Function
-
-Private Function return_max_row_heigth(ByRef rc As Integer, ByRef max_w As Integer, ByRef umbruch_ab As Integer, ByRef maxheight As Integer) As Integer
-    Dim height%
-    Dim cc%
+    ' Same thing for width
+    offset = 50
+    Dim minwidth: minwidth = 500
+    Dim maxwidth
+    Dim width
     
-    ' Get the max height
+    ' gleicher loop aber cc und rc getauscht
     For cc = 0 To max_w
+        maxwidth = minwidth
         
-        ' Textheight gibt immer nur wie hoch die schrift ist, auch wenn tatsaechlich es 3 reihen gibt
-        ' Da bei umbruch_ab als weite umgebrochen wird kann man damit die reihen bestimmen
-        ' Plus eins weil int abrundet aber ich immer aufrunden muss
-        height = CInt(TextHeight(Me("txt_" & rc & "_" & cc & "")))
-        height = height * (Int(TextWidth(Me("txt_" & rc & "_" & cc & "")) / umbruch_ab) + 1)
-        If height > maxheight Then
-            maxheight = height
-        End If
+        ' Get the max width
+        For rc = 0 To max_h
+        
+            width = TextWidth(Me("txt_" & rc & "_" & cc & ""))
+            If width > maxwidth Then
+                If width > umbruch_ab Then
+                    width = umbruch_ab
+                End If
+                maxwidth = width
+                
+            End If
+        Next rc
+        rc = 0
+       
+            
+        ' Resize all and put the correct position
+        For rc = 0 To max_h
+            Me("txt_" & rc & "_" & cc & "").Left = offset
+            Me("txt_" & rc & "_" & cc & "").width = maxwidth + padding_side * 2 + 30
+        Next rc
+        rc = 0
+    
+        ' offset plus the width the col will have
+        offset = offset + Me("txt_" & rc & "_" & cc & "").width
     Next cc
     
-    return_max_row_heigth = maxheight
-End Function
+
+
+End Sub

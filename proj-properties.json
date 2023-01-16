@@ -4,7 +4,7 @@
     "Description": "Project Properties (Access)"
   },
   "Items": {
-    "VCS Build Path": "C:\\Users\\STRABELJ\\Downloads",
-    "VCS Source Path": "C:\\Users\\STRABELJ\\Documents\\praxis1\\backups\\owndb"
+    "VCS Build Path": "C:\\Users\\STRABELJ\\Documents\\praxis1\\dev\\owndb",
+    "VCS Source Path": "C:\\Users\\STRABELJ\\Documents\\praxis1\\dev\\owndb\\backupowndb"
   }
 }

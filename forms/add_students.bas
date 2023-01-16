@@ -293,7 +293,7 @@ Begin Form
                     OverlapFlags =85
                     TextAlign =1
                     IMESentenceMode =3
-                    Left =1635
+                    Left =1640
                     Top =870
                     Width =10050
                     Height =570
@@ -309,9 +309,9 @@ Begin Form
                     BottomPadding =150
                     GridlineColor =10921638
 
-                    LayoutCachedLeft =1635
+                    LayoutCachedLeft =1640
                     LayoutCachedTop =870
-                    LayoutCachedWidth =11685
+                    LayoutCachedWidth =11690
                     LayoutCachedHeight =1440
                     RowStart =1
                     RowEnd =1
@@ -323,7 +323,7 @@ Begin Form
                         Begin Label
                             OverlapFlags =85
                             TextAlign =1
-                            Left =345
+                            Left =340
                             Top =870
                             Width =1230
                             Height =570
@@ -338,9 +338,9 @@ Begin Form
                             GroupTable =1
                             BottomPadding =150
                             GridlineColor =10921638
-                            LayoutCachedLeft =345
+                            LayoutCachedLeft =340
                             LayoutCachedTop =870
-                            LayoutCachedWidth =1575
+                            LayoutCachedWidth =1570
                             LayoutCachedHeight =1440
                             RowStart =1
                             RowEnd =1
@@ -353,8 +353,8 @@ Begin Form
                     OverlapFlags =85
                     TextAlign =1
                     IMESentenceMode =3
-                    Left =1635
-                    Top =1620
+                    Left =1640
+                    Top =1630
                     Width =10050
                     Height =570
                     TabIndex =1
@@ -370,10 +370,10 @@ Begin Form
                     BottomPadding =150
                     GridlineColor =10921638
 
-                    LayoutCachedLeft =1635
-                    LayoutCachedTop =1620
-                    LayoutCachedWidth =11685
-                    LayoutCachedHeight =2190
+                    LayoutCachedLeft =1640
+                    LayoutCachedTop =1630
+                    LayoutCachedWidth =11690
+                    LayoutCachedHeight =2200
                     RowStart =2
                     RowEnd =2
                     ColumnStart =1
@@ -384,8 +384,8 @@ Begin Form
                         Begin Label
                             OverlapFlags =85
                             TextAlign =1
-                            Left =345
-                            Top =1620
+                            Left =340
+                            Top =1630
                             Width =1230
                             Height =570
                             LeftMargin =44
@@ -399,10 +399,10 @@ Begin Form
                             GroupTable =1
                             BottomPadding =150
                             GridlineColor =10921638
-                            LayoutCachedLeft =345
-                            LayoutCachedTop =1620
-                            LayoutCachedWidth =1575
-                            LayoutCachedHeight =2190
+                            LayoutCachedLeft =340
+                            LayoutCachedTop =1630
+                            LayoutCachedWidth =1570
+                            LayoutCachedHeight =2200
                             RowStart =2
                             RowEnd =2
                             LayoutGroup =1
@@ -414,10 +414,10 @@ Begin Form
                     OverlapFlags =85
                     TextAlign =1
                     IMESentenceMode =3
-                    Left =1635
-                    Top =2370
+                    Left =1640
+                    Top =2390
                     Width =10050
-                    Height =345
+                    Height =340
                     TabIndex =2
                     LeftMargin =44
                     TopMargin =22
@@ -431,10 +431,10 @@ Begin Form
                     BottomPadding =150
                     GridlineColor =10921638
 
-                    LayoutCachedLeft =1635
-                    LayoutCachedTop =2370
-                    LayoutCachedWidth =11685
-                    LayoutCachedHeight =2715
+                    LayoutCachedLeft =1640
+                    LayoutCachedTop =2390
+                    LayoutCachedWidth =11690
+                    LayoutCachedHeight =2730
                     RowStart =3
                     RowEnd =3
                     ColumnStart =1
@@ -445,10 +445,10 @@ Begin Form
                         Begin Label
                             OverlapFlags =85
                             TextAlign =1
-                            Left =345
-                            Top =2370
+                            Left =340
+                            Top =2390
                             Width =1230
-                            Height =345
+                            Height =340
                             LeftMargin =44
                             TopMargin =22
                             RightMargin =44
@@ -460,10 +460,10 @@ Begin Form
                             GroupTable =1
                             BottomPadding =150
                             GridlineColor =10921638
-                            LayoutCachedLeft =345
-                            LayoutCachedTop =2370
-                            LayoutCachedWidth =1575
-                            LayoutCachedHeight =2715
+                            LayoutCachedLeft =340
+                            LayoutCachedTop =2390
+                            LayoutCachedWidth =1570
+                            LayoutCachedHeight =2730
                             RowStart =3
                             RowEnd =3
                             LayoutGroup =1
@@ -472,34 +472,34 @@ Begin Form
                     End
                 End
                 Begin EmptyCell
-                    Left =345
-                    Top =345
+                    Left =340
+                    Top =340
                     Width =1230
-                    Height =345
+                    Height =344
                     Name ="EmptyCell14"
                     GroupTable =1
                     BottomPadding =150
                     GridlineColor =10921638
-                    LayoutCachedLeft =345
-                    LayoutCachedTop =345
-                    LayoutCachedWidth =1575
-                    LayoutCachedHeight =690
+                    LayoutCachedLeft =340
+                    LayoutCachedTop =340
+                    LayoutCachedWidth =1570
+                    LayoutCachedHeight =684
                     LayoutGroup =1
                     GroupTable =1
                 End
                 Begin EmptyCell
-                    Left =1635
-                    Top =345
+                    Left =1640
+                    Top =340
                     Width =10050
-                    Height =345
+                    Height =344
                     Name ="EmptyCell15"
                     GroupTable =1
                     BottomPadding =150
                     GridlineColor =10921638
-                    LayoutCachedLeft =1635
-                    LayoutCachedTop =345
-                    LayoutCachedWidth =11685
-                    LayoutCachedHeight =690
+                    LayoutCachedLeft =1640
+                    LayoutCachedTop =340
+                    LayoutCachedWidth =11690
+                    LayoutCachedHeight =684
                     ColumnStart =1
                     ColumnEnd =1
                     LayoutGroup =1
@@ -529,10 +529,10 @@ Begin Form
                     PressedColor =11957550
                     HoverForeColor =4210752
                     PressedForeColor =4210752
-                    WebImagePaddingLeft =2
-                    WebImagePaddingTop =2
-                    WebImagePaddingRight =1
-                    WebImagePaddingBottom =1
+                    WebImagePaddingLeft =3
+                    WebImagePaddingTop =3
+                    WebImagePaddingRight =2
+                    WebImagePaddingBottom =2
                 End
                 Begin TextBox
                     EnterKeyBehavior = NotDefault
